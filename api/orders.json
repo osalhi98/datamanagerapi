@@ -1,0 +1,20 @@
+[
+        {
+            "@odata.etag": "W/\"'ERNSH',1,1\"",
+            "OrderID": 10258,
+            "EmployeeID": 0,
+            "ShipName": "Ernst Handel"
+        },
+        {
+            "@odata.etag": "W/\"'WARTH',1,1\"",
+            "OrderID": 10270,
+            "EmployeeID": 0,
+            "ShipName": "Wartian Herkku"
+        },
+        {
+            "@odata.etag": "W/\"'MAGAA',1,1\"",
+            "OrderID": 10275,
+            "EmployeeID": 0,
+            "ShipName": "Magazzini Alimentari Riuniti"
+        }
+]
