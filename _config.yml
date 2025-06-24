@@ -1,3 +1,1 @@
 include: [_redirects]
-include:
-  - api/*.json
